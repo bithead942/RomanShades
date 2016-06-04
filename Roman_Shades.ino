@@ -1,6 +1,8 @@
 /*
 Roman Shade Control
 by Bithead942
+
+ Works with the Arduino FIO board with Xbee S6B Wifi module
  
  Remote control of the Roman Shades hanging on the French Doors on the East side of the house.
  
