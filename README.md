@@ -1,4 +1,4 @@
 RomanShades
 ===========
 
-Arduino Fio source code for automated Roman Shades
+Source code for automated Roman Shades
